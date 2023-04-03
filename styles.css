@@ -20,7 +20,7 @@ header{
 	text-align: center;
 }
 
-.item1 {
+.latest-news-section {
 	background-color: white;
 	height: fit-content;
 	width:25%;
@@ -36,7 +36,7 @@ header{
 	border-radius:20px;
 }
 
-.item3 {
+.pictorial-news-section {
 	background-color: white;
 	height: fit-content;
 	width:25%;
@@ -51,7 +51,7 @@ header{
 	gap: 15px;
 }
 
-.item3 img {
+.pictorial-news-section img {
 	width: 150px;
 	height: auto;
 }
